@@ -1,6 +1,6 @@
 # dermetalogy-ai
 ISIC 2017: Skin Lesion Analysis Towards Melanoma Detection
-algorithm to classify skin cancer.
+I will be exploring multiple algorithms to classify skin cancer and test the same using the ISIC evaluation criteria.
 
 
 Reference:
